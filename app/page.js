@@ -12,7 +12,7 @@ export default function Home() {
         fontSize: '4rem',
         fontWeight: 'bold',
         margin: 0,
-        background: 'linear-gradient(to right, #3b82f6, #8b5cf6)',
+        background: 'linear-gradient(to right, #ec4899, #f59e0b)',
         WebkitBackgroundClip: 'text',
         WebkitTextFillColor: 'transparent',
         backgroundClip: 'text'
